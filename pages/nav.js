@@ -3,7 +3,7 @@ import { Switch, Heading, Box } from "@chakra-ui/react";
 import LinearGraph from "../components/LinearGraph";
 import ErrorState from "../components/ErrorState";
 
-export default function Nav({ navs }) {
+ export default  function Nav({ navs }) {
   const [isChecked, setIsChecked] = useState(false);
   const userId = 1;
 

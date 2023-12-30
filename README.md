@@ -47,3 +47,5 @@ Get a list of the top 10 symbols by calling the /top_10 endpoint. Then for each 
 
 Allow users to place trades. Create a simple form that allows a user to write the name of a symbol and click a "buy" button. Front end should then call the place_trade/{symbol} endpoint. Call can fail so the code needs to account for API call failing now and then. When the trade is placed show the results for each trade to the user in a list or table. 
 
+### Todo
+Tests has been temporary moved out from pages folder one level up for building proposes
