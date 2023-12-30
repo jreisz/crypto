@@ -1,0 +1,28 @@
+
+
+Hola Eduardo,
+
+
+Como para ir adelantando, tomé como referencia el archivo readme.md adjunto y creé un proyecto NextJS de cero.
+Adjunto el código con los requerimientos realizados, quedando a la espera de que los evalues.
+
+Si necesitás conocer los detalles de la implementación con gusto me reuniré contigo. 
+
+
+Atte.,
+
+
+
+
+returns
+------
+styles
+
+place_trade
+---------
+place_trade can fail..
+styles
+allow user to input the symbol on a textbox with autocomplete
+display inserted place_trade in a list or table
+
+send email and delete this file before
